@@ -1,1 +1,5 @@
 targets = [ "//:core-graphics" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/host-core-foundation"
+version = "branch=master"
