@@ -1,5 +1,2 @@
 [project]
   ignore = .git
-
-[repositories]
-  buckaroo.github.buckaroo-pm.host-core-foundation = ./buckaroo-packages/github/buckaroo-pm/host-core-foundation
