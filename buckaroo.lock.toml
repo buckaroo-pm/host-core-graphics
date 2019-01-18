@@ -4,6 +4,6 @@ manifest = "67850a8b34845f57e65186dbe516e99fa14378b55d20b1bd2950acd6a92d7749"
 package = "github.com/buckaroo-pm/host-core-foundation"
 target = "//:core-foundation"
 
-[[lock]]
-name = "github.com/buckaroo-pm/host-core-foundation"
-revision = "5026cb425ebbf790c3d1360c041a5dde52a60ab8"
+[lock."github.com/buckaroo-pm/host-core-foundation"]
+versions = [ "branch=master" ]
+revision = "fd7081ffe1244afb86c41c2d41d3603f851feae8"
